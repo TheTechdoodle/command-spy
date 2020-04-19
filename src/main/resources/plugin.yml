@@ -4,3 +4,8 @@ api-version: 1.15
 main: com.darkender.plugins.commandspy.CommandSpy
 description: A plugin to show in-progress player commands in a bossbar
 author: Techdoodle
+commands:
+  togglespy:
+    aliases:
+      - tspy
+    permission: commandspy.toggle
