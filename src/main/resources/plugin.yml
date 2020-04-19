@@ -1,0 +1,6 @@
+name: CommandSpy
+version: ${project.version}
+api-version: 1.15
+main: com.darkender.plugins.commandspy.CommandSpy
+description: A plugin to show in-progress player commands in a bossbar
+author: Techdoodle
